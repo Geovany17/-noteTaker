@@ -10,10 +10,10 @@ Create an application that can be used to write, save, and delete notes
 
 ### Demo for the deployed app
 
-![noteTaker demo](public\assets\noteTaker.gif)
-![noteTaker demo](<public\assets\Screenshot%20(74).png>)
-![noteTaker demo](<public\assets\Screenshot%20(75).png>)
-![noteTaker demo](<public\assets\Screenshot%20(76).png>)
+![noteTaker demo](https://github.com/Geovany17/noteTaker/blob/master/public/assets/noteTaker.gif)
+![noteTaker demo](<https://github.com/Geovany17/noteTaker/blob/master/public/assets/Screenshot%20(74).png>)
+![noteTaker demo](<https://github.com/Geovany17/noteTaker/blob/master/public/assets/Screenshot%20(75).png>)
+![noteTaker demo](<https://github.com/Geovany17/noteTaker/blob/master/public/assets/Screenshot%20(76).png>)
 
 ## Table of contents
 
