@@ -48,7 +48,7 @@ Geovany17
 
 ## Deployed Link:
 
-[noteTaker App]()
+[noteTaker App](https://serene-brushlands-71503.herokuapp.com/)
 
 ## Built With
 
