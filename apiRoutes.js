@@ -1,4 +1,3 @@
-const uuid = require("uuid/v4");
 const fs = require("fs");
 const path = require("path");
 
@@ -42,7 +41,7 @@ module.exports = (app) => {
   //=========================================================
   // Delete and rewrite the notes to the db.json file.
   //=========================================================
-  app.delete("/api/deleteNotes/:id", (req, res) => {
+  app.delete("api/deleteNotes/:id", (req, res) => {
     fs.readFile("db/db.json", "utf8", (error, data) => {
       let noteId = req.params.id;
       let noteData = JSON.parse(data);
@@ -55,7 +54,7 @@ module.exports = (app) => {
         }
       });
 
-      fs.writeFile("db/db.json", JSON.stringify(noteData), (error) => {
+      fs.writeFile("db/db.json", JSON.stringify(noteData), function (error) {
         if (error) throw error;
         res.end(console.log("Deleted Successfully"));
       });
