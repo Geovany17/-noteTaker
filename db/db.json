@@ -1,1 +1,14 @@
-[{"title":"Test Title","text":"Test text"},{"title":"title","text":"sample testing"},{"title":"Bug","text":"Trying to fix it!!"},{"title":"Finish the app","text":"now submitting and checking  for bugs\n"},{"title":"Everything done!!","text":"good to go!!!!"},{"title":"Sample gif","text":"for the homework"}]
+[
+  { "id": 1, "title": "Test Title", "text": "Test text" },
+  { "id": 2, "title": "title", "text": "sample testing" },
+  { "id": 3, "title": "Bug", "text": "Trying to fix it!!" },
+  {
+    "id": 4,
+    "title": "Finish the app",
+    "text": "now submitting and checking  for bugs\n"
+  },
+  { "id": 5, "title": "Everything done!!", "text": "good to go!!!!" },
+  { "id": 6, "title": "Sample gif", "text": "for the homework" },
+  { "id": 7, "title": "lookjnn", "text": "bghukkll" },
+  { "id": 8, "title": "new ", "text": "sample" }
+]
